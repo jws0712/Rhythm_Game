@@ -128,6 +128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ff5289f07315cd4fa054daf79a62bf9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destroyTime: 4
   judge: {fileID: 6178659417070089213}
   combo: {fileID: 6178659416357434534}
 --- !u!95 &6178659415145874198

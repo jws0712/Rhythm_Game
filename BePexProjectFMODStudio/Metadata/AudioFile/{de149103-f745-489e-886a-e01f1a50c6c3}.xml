@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{de149103-f745-489e-886a-e01f1a50c6c3}">
+		<property name="assetPath">
+			<value>christmas-holiday-festive-cheer-snow-427231.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>94.24979591836734</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{50f02436-4266-4263-8e83-efc7cb629f0e}</destination>
+		</relationship>
+	</object>
+</objects>
